@@ -1,2 +1,4 @@
-def a():
-    print(2)
+
+print(2)
+print("Hello")
+print(4)
